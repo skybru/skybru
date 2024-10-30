@@ -1,6 +1,6 @@
 ## Hi HUMAN!! PLEASE ENJOY THIS SPAGHETTI. 🍝💀
 
-- :school: I'm currently studying ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) for .NET Framework (Generation Italy's Course)
+- :school: I'm currently studying C# for ASP/.NET Framework (Generation Italy's Course)
 - :construction: Currently learning ![image](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white) in my pastime
 - :books: Languages and frameworks learned:
   
