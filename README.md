@@ -1,8 +1,8 @@
-Hi Human! PLEASE ENJOY THIS SPAGHETTI. 🍝💀
+## Hi HUMAN!! PLEASE ENJOY THIS SPAGHETTI. 🍝💀
 
 - :school: I'm currently studying C# for .NET Framework (Generation Italy's Course)
-- :books: Currently learning Kotlin in my pastime
-- :spaghetti: Languages and frameworks learned: Java, C#, Javascript, Powershell, jQuery, Bootstrap, SASS
+- :construction: Currently learning Kotlin in my pastime
+- :books: Languages and frameworks learned: Java, C#, Javascript, Powershell, jQuery, Bootstrap, SASS
 - :dizzy: Fun fact: I'm also a bard<sup>(🎸🥁🎹)</sup> and I'm learning Japanese language 🇯🇵
 
   > 👻 after a great meal i like to lie on the ground and feel like garbage...
