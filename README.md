@@ -2,7 +2,10 @@
 
 - :school: I'm currently studying C# for .NET Framework (Generation Italy's Course)
 - :construction: Currently learning Kotlin in my pastime
-- :books: Languages and frameworks learned: Java, C#, Javascript, Powershell, jQuery, Bootstrap, SASS
+- :books: Languages and frameworks learned:
+  
+  [![My Skills](https://skillicons.dev/icons?i=java,cs,js,jquery,bootstrap,sass,powershell&theme=light)](https://skillicons.dev)
+  <!--Java, C#, Javascript, Powershell, jQuery, Bootstrap, SASS-->
 - :dizzy: Fun fact: I'm also a bard<sup>(🎸🥁🎹)</sup> and I'm learning Japanese language 🇯🇵
  
   > 👻 after a great meal i like to lie on the ground and feel like garbage...
