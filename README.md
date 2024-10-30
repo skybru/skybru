@@ -1,4 +1,4 @@
-Hi Human! PLEASE ENJOY THIS SPAGHETTI. 🍝
+Hi Human! PLEASE ENJOY THIS SPAGHETTI. 🍝💀
 
 - :school: I'm currently studying C# for .NET Framework (Generation Italy's Course)
 - :books: Currently learning Kotlin in my pastime
