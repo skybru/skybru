@@ -4,7 +4,7 @@
 - :construction: Currently learning ![image](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white) in my pastime
 - :books: Languages and frameworks learned:
   
-  [![My Skills](https://skillicons.dev/icons?i=java,cs,js,jquery,bootstrap,sass,powershell&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,cs,js,jquery,bootstrap,sass,mysql,powershell&theme=light)](https://skillicons.dev)
   <!--Java, C#, Javascript, Powershell, jQuery, Bootstrap, SASS-->
 - :dizzy: Fun fact: I'm also a bard<sup>(🎸🥁🎹)</sup> and I'm learning Japanese language 🇯🇵
  
