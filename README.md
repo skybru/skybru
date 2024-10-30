@@ -10,6 +10,7 @@
  
   > 👻 after a great meal i like to lie on the ground and feel like garbage...
 
+<sup>*</sup> whoops. Yes, Undertale is my favourite game.
 <!--
 **skybru/skybru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
