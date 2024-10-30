@@ -1,9 +1,14 @@
-## Hi Human 👋
+<h1>HUMAN!! PLEASE ENJOY THIS SPAGHETTI 🍝.</h1>
+<h2>(LITTLE DO YOU KNOW, THIS SPAGHETTI IS A TRAP...)</h2>
+<h3>(DESIGNED TO ENTICE YOU!!!)</h3>
+<h4>(YOU'LL BE SO BUSY EATING IT...)</h4>
+<h5>(THAT YOU WON'T REALIZE THAT YOU AREN'T PROGRESSING!!)</h5>
+
 
 - :school: I'm currently studying C# for .NET Framework (Generation Italy's Course)
 - :books: Currently learning Kotlin in my pastime
 - :spaghetti: Languages and frameworks learned: Java, C#, Javascript, Powershell, jQuery, Bootstrap, SASS
-- :dizzy: Fun fact: I'm also a bard<sup>(multistrumentalist)</sup> and I'm learning Japanese language 
+- :dizzy: Fun fact: I'm also a bard<sup>(🎸🥁🎹)</sup> and I'm learning Japanese language 🇯🇵
 
   > 👻 after a great meal i like to lie on the ground and feel like garbage...
 
