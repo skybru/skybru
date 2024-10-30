@@ -1,9 +1,4 @@
-<h1>HUMAN!! PLEASE ENJOY THIS SPAGHETTI 🍝.</h1>
-<h2>(LITTLE DO YOU KNOW, THIS SPAGHETTI IS A TRAP...)</h2>
-<h3>(DESIGNED TO ENTICE YOU!!!)</h3>
-<h4>(YOU'LL BE SO BUSY EATING IT...)</h4>
-<h5>(THAT YOU WON'T REALIZE THAT YOU AREN'T PROGRESSING!!)</h5>
-
+Hi Human! PLEASE ENJOY THIS SPAGHETTI. 🍝
 
 - :school: I'm currently studying C# for .NET Framework (Generation Italy's Course)
 - :books: Currently learning Kotlin in my pastime
