@@ -6,7 +6,7 @@
   
   [![My Skills](https://skillicons.dev/icons?i=java,cs,js,jquery,bootstrap,sass,mysql,powershell&theme=light)](https://skillicons.dev)
   <!--Java, C#, Javascript, Powershell, jQuery, Bootstrap, SASS-->
-- :dizzy: Fun fact: I'm also a bard<sup>(🎸🥁🎹)</sup> and I'm learning Japanese language 🇯🇵
+- :dizzy: Fun fact: I'm also a multi-instrumentalist<sup>(🎸🥁🎹)</sup> and I'm learning Japanese language 🇯🇵
  
   > 👻 after a great meal i like to lie on the ground and feel like garbage...
 
