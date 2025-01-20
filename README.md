@@ -1,7 +1,7 @@
 ## Hi HUMAN!! PLEASE ENJOY THIS SPAGHETTI. 🍝💀
 
 - :school: I'm currently studying C# for ASP/.NET Framework (Generation Italy's Course)
-- :construction: Currently learning ![image](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white) in my pastime
+<!--- :construction: Currently learning ![image](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white) in my pastime-->
 - :books: Languages and frameworks learned:
   
   [![My Skills](https://skillicons.dev/icons?i=java,cs,js,jquery,bootstrap,sass,mysql,powershell&theme=light)](https://skillicons.dev)
