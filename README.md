@@ -5,7 +5,7 @@
 - :books: Languages and frameworks learned:
   
   [![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,js,jquery,bootstrap,sass,mysql,powershell&theme=light)](https://skillicons.dev)
-- :: Other things I know:
+- :school_satchel: Other things I know:
 
   [![My Knowledge](https://skillicons.dev/icons?i=ableton,azure,docker,vscode&theme=light)](https://skillicons.dev)
   <!--Java, C#, Javascript, Powershell, jQuery, Bootstrap, SASS-->
