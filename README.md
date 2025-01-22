@@ -4,7 +4,10 @@
 <!--- :construction: Currently learning ![image](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white) in my pastime-->
 - :books: Languages and frameworks learned:
   
-  [![My Skills](https://skillicons.dev/icons?i=java,cs,js,jquery,bootstrap,sass,mysql,powershell,azure,docker&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,js,jquery,bootstrap,sass,mysql,powershell&theme=light)](https://skillicons.dev)
+- :: Other things I know:
+
+  [![My Knowledge](https://skillicons.dev/icons?i=ableton,azure,docker,vscode&theme=light)](https://skillicons.dev)
   <!--Java, C#, Javascript, Powershell, jQuery, Bootstrap, SASS-->
 - :dizzy: Fun fact: I'm also a multi-instrumentalist<sup>(🎸🥁🎹)</sup> and I'm learning Japanese language 🇯🇵
  
