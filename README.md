@@ -9,7 +9,7 @@
 
   [![My Knowledge](https://skillicons.dev/icons?i=ableton,azure,docker,vscode&theme=light)](https://skillicons.dev)
   <!--Java, C#, Javascript, Powershell, jQuery, Bootstrap, SASS-->
-- :dizzy: Fun fact: I'm also a multi-instrumentalist<sup>(🎸🥁🎹)</sup> and I'm learning Japanese language 🇯🇵
+- :dizzy: Fun fact: I'm also a multi-instrumentalist<sup>(🎸🥁🎹)</sup> and I'm learning 日本語 (Japanese language) 🇯🇵
  
   > 👻 after a great meal i like to lie on the ground and feel like garbage...
 
